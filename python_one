@@ -1,0 +1,5 @@
+
+str = "hello all,
+       your in task repository"
+for letters in str:
+  print(letters)
